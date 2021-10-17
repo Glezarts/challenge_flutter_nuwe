@@ -16,20 +16,4 @@ class AppStyles {
       Color(0xff125B00),
     ],
   );
-  static final ThemeData defaultTheme = ThemeData(
-    scaffoldBackgroundColor: backgroundDark,
-    appBarTheme:
-        const AppBarTheme(backgroundColor: backgroundDark, elevation: 0),
-    colorScheme: ColorScheme.fromSwatch(backgroundColor: backgroundDark),
-    bottomNavigationBarTheme: const BottomNavigationBarThemeData(
-        backgroundColor: backgroundBackgroundNavigation,
-        showSelectedLabels: false,
-        showUnselectedLabels: false,
-        type: BottomNavigationBarType.fixed),
-  );
-
-  // static const smallSeparator = SizedBox(height: 8, width: 8);
-  // static const mediumSeparator = SizedBox(height: 16, width: 16);
-  // static const bigSeparator = SizedBox(height: 32, width: 32);
-  // static const hugeSeparator = SizedBox(height: 64, width: 64);
 }
