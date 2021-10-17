@@ -5,9 +5,9 @@
 ## Getting Started
 Para empezar este challenge, creamos la estructura de clasificación de los archivos y borramos el código predeterminado de flutter.
 Carpetas:
-· configuration: Aquí se encuentra el archivo que declara los colores que se usan, para pasarlos como variable en el widget correspondiente y no repetir su "declaración".
-· pages: Aquí desarrolla la página, en donde se unen todos los widgets.
-· widget: Desarrollo de los diferentes widgets que forman la página.
+1. configuration: Aquí se encuentra el archivo que declara los colores que se usan, para pasarlos como variable en el widget correspondiente y no repetir su "declaración".
+2. pages: Aquí desarrolla la página, en donde se unen todos los widgets. Second item
+3. widget: Desarrollo de los diferentes widgets que forman la página.
 
 Hice varias pruebas con otro tipo de Widget como el ListView.builder pero me daba ciertos problemas para encontrar el resultado que buscaba. Por ello, tras buscar en la documentación oficial, use el widget NavigationRail, aunque creo que mi código con este, se podría refactorizar. 
 
