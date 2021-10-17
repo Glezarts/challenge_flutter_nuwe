@@ -1,6 +1,6 @@
 # challenge_flutter_nav_nuwe
 
-A new Flutter project.
+[![CodeFactor](https://www.codefactor.io/repository/github/glezarts/challenge_flutter_nuwe/badge)](https://www.codefactor.io/repository/github/glezarts/challenge_flutter_nuwe)
 
 ## Getting Started
 
